@@ -8,7 +8,7 @@ import de.codecentric.boot.admin.config.EnableAdminServer;
 @SpringBootApplication
 @EnableAdminServer
 //1234
-//lin 3
+//lin 4
 //test3
 public class DemoApplication {
 
