@@ -9,6 +9,7 @@ import de.codecentric.boot.admin.config.EnableAdminServer;
 @EnableAdminServer
 //1234
 //lin 3
+//test3
 public class DemoApplication {
 
 	public static void main(String[] args) {
